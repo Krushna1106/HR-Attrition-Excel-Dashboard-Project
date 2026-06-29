@@ -8,7 +8,6 @@ An interactive HR Analytics Dashboard built in Microsoft Excel to analyze employ
 🚀 Project Overview
 
 The dashboard helps HR professionals understand workforce trends by analyzing:
-
 Employee Attrition
 Department-wise Employee Distribution
 Gender Distribution
@@ -21,6 +20,7 @@ Workforce Demographics
 The project follows a Fact-Dimension (Star Schema) approach, making it scalable and suitable for Power BI integration.
 
 📌 Features
+
 📈 Interactive HR Dashboard
 📊 Pivot Tables & Pivot Charts
 👥 Employee Demographic Analysis
@@ -32,31 +32,3 @@ The project follows a Fact-Dimension (Star Schema) approach, making it scalable 
 📅 Date Dimension for Time-based Analysis
 📂 Dataset Structure
 
-The workbook includes:
-
-Fact_Attrition
-Dim_Employee
-Dim_Date
-Dim_Performance
-Dim_Satisfaction
-Pivot Tables
-Dashboard
-📊 Key KPIs
-Total Employees
-Attrition Count
-Attrition Rate
-Department-wise Employee Count
-Gender Distribution
-Average Performance Rating
-Average Job Satisfaction
-Average Years at Company
-Overtime Analysis
-🛠️ Tools & Technologies
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Data Modeling
-Star Schema
-HR Analytics
-Dashboard Design
-Data Visualization
